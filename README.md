@@ -17,6 +17,7 @@ import java.awt.event.*;
 
 import org.w3c.dom.css.Counter;
 
+
 public class Breakout extends GraphicsProgram {
 
 	/** Width and height of application window in pixels */
